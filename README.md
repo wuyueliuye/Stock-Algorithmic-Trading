@@ -1,6 +1,6 @@
-# Financial-Machine-Learning
-#### Stock Market Detection and Prediction
-[Stock Market Detection and Prediction](https://github.com/wuyueliuye/Financial-Machine-Learning/blob/master/stock_md.md)
+# Financial-Machine-Learning 
+#### Stock Algorithmic Trading
+[Stock Algorithmic Trading](https://github.com/wuyueliuye/Financial-Machine-Learning/blob/master/stock_md.md)
 
 In this project, I selected 3 months’ tick data for Nivdia to go for a
 predictive analysis. By detecting the special patterns from the tick
